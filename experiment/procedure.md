@@ -1,8 +1,14 @@
 ## Procedure
 
-- Insert different values of $\theta$ within the joint range as prescribed in theory part and then click ok to get the output orientation and position of the end effector.
-- To see the individual movements of the robot links drag the ***sliders*** on the controller panel.
-- Manipulator position is shown in a **3D graph** for every submission of joint values.
-- The view can be rotated about a point by keeping the ***left mouse button*** pressed and rotating the mouse.
-- The view can be translated by keeping the ***right mouse button*** pressed and translating the mouse in the desired direction.
-- The ***scroll button*** or ***middle mouse button*** can be used for zooming.
+<div align="center">
+<img src="images/pic3.jpg" />
+
+***Fig 1: Circuit Diagram for experimental set-up of Maxwell's bridge***
+</div>
+- Connect all the components and the air cored coil as shown in the figure.
+- </br>
+- Set the product of $R_2 R_3$ at a convenient value and obtain the balance by varying $R_1$ and $C_1$.
+- </br>
+- Decide the ranges for $R_1$ and $C_1$ through which they can varied without bringing database at noise C.R.O.
+- </br>
+- Repeat the procedure with different values of the product $R_2 R_3$ and decide upon readings that permit maximum accuracy for the measurement.
